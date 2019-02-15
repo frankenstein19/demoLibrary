@@ -5,4 +5,5 @@ package com.example.cybercry.demolibrary;
  */
 
 public class DemoLibrary {
+    String name ="Rahul sharma";
 }
